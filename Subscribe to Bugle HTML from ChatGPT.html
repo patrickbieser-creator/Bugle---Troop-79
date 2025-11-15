@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Subscribe: Troop 79 Bugle Calendar</title>
+<style>
+:root{--bg:#0b132b;--card:#1c2541;--accent:#5bc0be;--text:#e5e7eb;--muted:#9aa4b2}
+*{box-sizing:border-box} body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;background:linear-gradient(180deg,#0b132b,#0f1d3a)}
+.wrap{max-width:900px;margin:40px auto;padding:24px}
+.card{background:var(--card);border-radius:16px;padding:28px;box-shadow:0 10px 30px rgba(0,0,0,.25);border:1px solid rgba(255,255,255,.08)}
+h1{color:#fff;font-size:28px;margin:0 0 8px} h2{color:#fff;margin:18px 0 10px} p{color:var(--text);line-height:1.6}
+.muted{color:var(--muted)} .row{display:flex;flex-wrap:wrap;gap:16px;margin:18px 0}
+.btn{appearance:none;border:none;background:var(--accent);color:#081229;padding:14px 18px;border-radius:12px;font-weight:700;cursor:pointer;display:inline-flex;align-items:center;gap:10px;text-decoration:none;box-shadow:0 6px 16px rgba(91,192,190,.35)}
+.btn:hover{filter:brightness(1.05)} .btn.secondary{background:#3a506b;color:#fff}
+.btn.disabled{opacity:0.5;pointer-events:none}
+code, .code{background:#0b162b;border:1px solid rgba(255,255,255,.08);padding:10px 12px;border-radius:10px;color:#d1e8ff;display:inline-block}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px}
+footer{margin-top:24px;color:#aab4c6;text-align:center;font-size:12px}
+.small{font-size:12px}
+</style>
+</head>
+<body>
+<div class="wrap">
+<div class="card">
+<h1>Subscribe to the <em>Troop 79 Bugle Calendar</em></h1>
+<p class="muted">This page lets you subscribe in one click. Subscriptions auto-update whenever we publish changes from our sheet.</p>
+
+<script>
+const ICS_URL = "https://calendar.google.com/calendar/ical/2j8hvnoc3dofuhb5fdv8cqt8f9q2hpih%40import.calendar.google.com/public/basic.ics";
+const ICS_URL_ENC = encodeURIComponent(ICS_URL);
+const LINKS = {
+  google: `https://calendar.google.com/calendar/u/0/r?cid=${ICS_URL_ENC}`,
+  outlookLive: `https://outlook.live.com/calendar/0/addfromweb?url=${ICS_URL_ENC}`,
+  outlook365: `https://outlook.office.com/calendar/0/addfromweb?url=${ICS_URL_ENC}`,
+  appleWebcal: `webcal://${ICS_URL.replace(/^https?:\/\//i, '')}`,
+  directDownload: ICS_URL
+};
+window.__CAL_LINKS__ = LINKS;
+
+// Set link text
+document.getElementById('linktext').innerText = 'Loading...';
+
+// Validate ICS URL
+async function checkICSUrl(url) {
+  try {
+    const response = await fetch(url, { method: 'HEAD' });
+    if (response.ok && response.headers.get('content-type').includes('text/calendar')) {
+      return true;
+    }
+    console.error('Invalid ICS URL or MIME type');
+    return false;
+  } catch (e) {
+    console.error('Error fetching ICS URL:', e);
+    return false;
+  }
+}
+checkICSUrl(ICS_URL).then(isValid => {
+  if (isValid) {
+    document.getElementById('linktext').innerText = ICS_URL;
+  } else {
+    document.getElementById('linktext').innerText = 'Error: Invalid ICS file URL';
+    document.querySelectorAll('.btn').forEach(btn => btn.classList.add('disabled'));
+  }
+});
+
+// Copy button event listener
+document.querySelector('.btn.secondary').addEventListener('click', async () => {
+  if (!navigator.clipboard) {
+    document.getElementById('linktext').innerText = 'Clipboard not supported; please copy manually';
+    return;
+  }
+  try {
+    await navigator.clipboard.writeText(ICS_URL);
+    this.textContent = 'Copied!';
+    setTimeout(() => (this.textContent = 'Copy link'), 1500);
+  } catch (e) {
+    this.textContent = 'Copy failed';
+    setTimeout(() => (this.textContent = 'Copy link'), 1500);
+  }
+});
+</script>
+
+<div class="grid">
+<div>
+<h2>Google Calendar</h2>
+<p>Click to open Google Calendar with the feed prefilled. Choose <strong>Add calendar</strong> when prompted.</p>
+<a class="btn" target="_blank" rel="noopener" data-link="google">➕ Add to Google Calendar</a>
+</div>
+<div>
+<h2>Outlook (personal)</h2>
+<p>Works for outlook.com / Hotmail accounts.</p>
+<a class="btn" target="_blank" rel="noopener" data-link="outlookLive">➕ Add in Outlook.com</a>
+<p class="small muted">For work/school Microsoft 365, use this:</p>
+<a class="btn secondary" target="_blank" rel="noopener" data-link="outlook365">➕ Add in Outlook 365 (work/school)</a>
+<p class="small muted">For Outlook desktop apps, use the direct .ics link below.</p>
+</div>
+<div>
+<h2>Apple Calendar (Mac / iOS)</h2>
+<p>Tap from iPhone/iPad or click on Mac. If the subscription fails, try the direct .ics link.</p>
+<a class="btn" target="_blank" rel="noopener" data-link="appleWebcal">➕ Subscribe in Apple Calendar</a>
+</div>
+</div>
+
+<h2>Direct .ics link</h2>
+<p>Share or copy this link anywhere. Anyone can use it to subscribe from any calendar app.</p>
+<div class="row">
+<span id="linktext" class="code">Loading...</span>
+<button class="btn secondary">Copy link</button>
+<a class="btn" target="_blank" rel="noopener" data-link="directDownload">Download .ics</a>
+</div>
+
+<h2>What subscribers will see</h2>
+<ul class="muted">
+<li>Calendar name: <strong>Troop 79 Bugle Calendar</strong></li>
+<li>Time Zone: America/Chicago</li>
+<li>Updates: Google/Outlook refresh every 8–24 hours</li>
+</ul>
+</div>
+</div>
+<script>
+document.querySelectorAll('.btn[data-link]').forEach(btn => {
+  btn.addEventListener('click', () => {
+    const url = __CAL_LINKS__[btn.dataset.link];
+    if (url) window.open(url, '_blank');
+  });
+});
+</script>
+</body>
+</html>
