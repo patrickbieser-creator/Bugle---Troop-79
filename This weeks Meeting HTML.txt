@@ -1,0 +1,167 @@
+                <!-- This Weeks Meeting -->
+
+                <hr>
+                <h1><img alt="Seven" src="https://Troop79.b-cdn.net/6.jpg" style="vertical-align: middle; width: 100%; max-width: 63px;">
+                    Troop Meeting This Sunday </h1>
+                <p>
+                    <strong>Sunday</strong>, December 7, 2025 - 4:00 - 5:30 <br>
+                    <strong>Uniform:</strong> Class B. (Summer Camp T-Shirt.) <br>
+                    <strong>Location:</strong> Northwoods 1572 E Capitol Drive. <br>
+                    <strong>Snack:</strong> Popcorn, chips <br>
+                    <strong>Flag Ceremony:</strong> Buff Burrito <br>
+                    <strong>Cleanup:</strong> Kraken <br>(<a href="https://docs.google.com/document/d/1DYRx1tyAIMnwcLdBoWAY3hvO4EfHDTbe5_n9B_bed70/edit?tab=t.0">Weekly Duty
+                        Roster</a>) <br>
+
+
+                    <!-- Younger Scouts -->
+
+                    <br>
+                <h3>Younger Scouts <span class="subtitle-size">Rank Advancement or Mert Badge Make-up</span> </h3>
+                If your name is not listed below we'll check your clipboard for advancement opportunities.
+
+                <ul>
+                    <li>Pocket Knife, Safety, Conference - Scout 5, 6, 7
+                        <ul>
+                            <li>Lilly Porter</li>
+                            <li>Isaac Hall</li>
+                        </ul>
+                        <br>
+                    </li>
+
+                    <li>Whip and Fuse a Rope - Scout 4b
+                        <ul>
+                            <li>Emmett Brouchoud</li>
+                        </ul>
+                        <br>
+
+                    </li>
+
+                    <li>Poison Plants - Tenderfoot 4b
+                        <ul>
+                            <li>Adi Alfred</li>
+                            <li>Eleanor Hooper</li>
+                            <li>Emmett Brouchoud</li>
+                            <Li>Isaac Hall</Li>
+                            <li>Lilly Porter</li>
+                            <li>Owen Radtke</li>
+                            <li>Xavier Juchemich</li>
+                        </ul>
+                        <br>
+                    </li>
+
+                    <li>Physical Fitness Test Part 1 - Tenderfoot 6a
+                        <ul>
+                            <li>Adi Alfred</li>
+                            <li>Ben Bieser</li>
+                            <li>Charlie Walters</li>
+                            <li>Eleanor Hooper</li>
+                            <li>Isaac Hall</li>
+                            <li>Lilly Porter</li>
+                            <li>Owen Radtke</li>
+                        </ul>
+                        <br>
+
+                    <li>Setup Lightweight Stove - Second Class 2d
+                        <ul>
+                            <li>Henry Ellerman</li>
+                            <li>Oscar Belle</li>
+                            <li>Owen Radtke</li>
+                            <li>Xavier Juchemich</li>
+                        </ul>
+                        <br>
+                    </li>
+
+                    <li>Develop a home emergency plan (fire, storm, power outage, water outage) - First Class 7e
+                        <ul>
+                            <li>Anita Bendre</li>
+                            <li>Anjali Sankpal-Tatera</li>
+                            <li>Eleanor Hooper</li>
+                            <li>Emmett Brouchoud</li>
+                            <li>Henry Ellerman</li>
+                            <li>Jameson Kimble</li>
+                            <li>Lee Pasek</li>
+                            <li>Lucy Lyden</li>
+                            <li>Oliver Kosmoski</li>
+                            <li>Oscar Belle</li>
+                            <li>Owen Radtke</li>
+                            <li>Quinn Barry</li>
+                            <li>Robbie Haessley</li>
+                            <li>Solomon Rader</li>
+                            <li>Violet Babby</li>
+                            <li>Winnie Black</li>
+                            <li>Xavier Juchemich</li>
+                        </ul>
+                        <br>
+                    </li>
+
+
+                    <li>Move an Injured Person - First Class 7b
+                        <ul>
+                            <li>Anita Bendre</li>
+                            <li>Eleanor Hooper</li>
+                            <li>Emmett Brouchoud</li>
+                            <li>Isaac Hall</li>
+                            <li>Lucy Lyden</li>
+                            <li>Oliver Kosmoski</li>
+                            <li>Owen Radtke</li>
+                            <li>Xavier Juchemich</li>
+                        </ul>
+                        <br>
+                    </li>
+                </ul>
+                <hr>
+
+                <!-- Older Scouts -->
+
+                <h3>Older Scouts <span class="subtitle-size">Eagle Merit Badges</span> </h3>
+                </p>
+
+                <ul>
+
+                    <!-- Personal Fitness -->
+
+                    <li style="padding-top: 8px; list-style: none; margin-left: -30px;"><span style="font-size:20px">Personal
+                            Fitness</span></li>
+                    <li>Finn Paltzer, Jameson Kimble, Jack Porter, Kevin Pieper, Myles Maciejewski, Oliver Kosmoski, Rose Manning</li>
+                    <li><strong>Homework</strong>: Bring statement from home about your most recent dental exam</li>
+                    <li><strong>Homework</strong>: Read Requirements #2 (pamphlet link is below)</li>
+                    <li><a href="https://docs.google.com/spreadsheets/d/1a-lP7ilzsF-4TYVBjdgWmZxpJ1a1NJz8uXu3M45Sawk/edit?usp=sharing" target="_blank">Progress
+                            Tracking & Requirements - Personal Fitness</a></li>
+                    <li><a href="https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Personal%20Fitness.pdf" target="_blank">Merit Badge
+                            Pamphlet - Personal Fitness</a></li>
+                    <li><a href="http://usscouts.org/mb/worksheets/personal-fitness.pdf" target="_blank">Workbook - Personal Fitness</a>
+                    </li>
+                    <br>
+
+                    <!-- Citizenship in the Community -->
+
+                    <li style="padding-top: 8px; list-style: none; margin-left: -30px;"><span style="font-size:20px">Ciizenship in
+                            the Community</span></li>
+                    <li>Finn Paltzer, Jack Porter, Jamison
+                        Kimble, Lucy Lyden</li>
+                    <li><strong>Homework</strong>: Identify your government buildings on a map. Chart organization
+                        of local governement - Requirement #2</li>
+                    <li><strong>Homework</strong>: Read Requirements #1 (pamphlet link is below) to prepare for a dicussion with your counselor </li>
+                    <li><a href="https://docs.google.com/spreadsheets/d/1ktes1pFNhxAcoCrY2CtZj_cxlH5C2ep_T32p_4OxJSk/edit?gid=0#gid=0" target="_blank">Progress
+                            Tracking & Requirements - Community</a></li>
+                    <li><a href="https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Citizenship%20in%20the%20Community.pdf" target="_blank">Merit Badge
+                            Pamphlet - Community</a></li>
+                    <li><a href="http://usscouts.org/mb/worksheets/citizenship-in-the-community.pdf" target="_blank">Workbook - Community</a>
+                    </li>
+                    <br>
+
+                    <!-- Communications -->
+
+                    <li style="padding-top: 8px; list-style: none; margin-left: -30px;"><span style="font-size:20px">Communications</span></li>
+                    <li>Anjali Sankpal-Tatera, Hazel Stollenwerk, Jack
+                        Porter, Myles Maciejewski, Oliver Kosmoski, Rose
+                        Manning, Violet Babby</li>
+                    <li><strong>Homework</strong>: Write a five minute speech to
+                        give to the group</li>
+                    <li><a href="https://docs.google.com/spreadsheets/d/1HIjEC8HNsJLLx7xJgbAMTqDz3o9EsI5hNNaO8xCx8uo/edit?gid=0#gid=0" target="_blank">Progress
+                            Tracking &amp;
+                            Requirements - Communications</a></li>
+                    <li><a href="https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Communication.pdf" target="_blank">Merit Badge
+                            Pamphlet - Communications</a></li>
+                    <li><a href="http://usscouts.org/mb/worksheets/communication.pdf" target="_blank">Workbook - Communications</a>
+                    </li>

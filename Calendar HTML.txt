@@ -1,0 +1,216 @@
+                <hr>
+
+                <!-- Calendar -->
+
+                <h1><img alt="Eight" src="https://Troop79.b-cdn.net/1.jpg" style="vertical-align: middle; width:100%; max-width:63px;">
+                    Calendar </h1>
+                <br>
+                <a href="https://sites.google.com/view/bsatroop79bg/home/bugle-calendar-subscription" target="_blank">Subscribe</a> to the
+                Bugle Calendar to sync with Google, Apple, or Outlook calendars.
+
+                <br><br>
+                <table class="my-custom-table">
+                    <tbody>
+                        <tr>
+                            <td class="month-cell" colspan="3">December </td>
+                        </tr>
+                        <tr>
+                            <td class="event-cell">14 </td>
+                            <td>Christmas Party </td>
+                            <td>Bring a White Elephant Gift</td>
+                        </tr>
+                        <tr>
+                            <td class="event-cell">21 </td>
+                            <td>No Troop Meeting </td>
+                            <td>Finish Your Shopping </td>
+                        </tr>
+                        <tr>
+                            <td class="event-cell">25 </td>
+                            <td>Christmas </td>
+                            <td>Deck the Halls! </td>
+                        </tr>
+                        <tr>
+                            <td class="event-cell">28 </td>
+                            <td>Troop Meeting </td>
+                            <td>Open Advancement </td>
+                        </tr>
+                        <tr>
+                            <td class="month-cell" colspan="3">January </td>
+                        </tr>
+                        <tr>
+                            <td class="event-cell">4 </td>
+                            <td>Troop Meeting </td>
+                            <td>Open Advancement </td>
+                        </tr>
+                        <tr>
+                            <td class="event-cell">11 </td>
+                            <td>Troop Meeting </td>
+                            <td>Robotics MB </td>
+                        </tr>
+                        <tr>
+                            <td class="event-cell">18 </td>
+                            <td>Troop Meeting </td>
+                            <td>Open Advancement </td>
+                        </tr>
+                        <tr>
+                            <td class="event-cell">25 </td>
+                            <td>Troop Meeting </td>
+                            <td>Prep for Winter Camp </td>
+                        </tr>
+                        <tr>
+                            <td class="month-cell" colspan="3">February </td>
+                        </tr>
+                        <tr>
+                            <td class="event-cell">1</td>
+                            <td>Troop Meeting </td>
+                            <td>Prep for Winter Camp </td>
+                        </tr>
+                        <tr>
+                            <td class="event-cell">8 </td>
+                            <td>No Troop Meeting </td>
+                            <td>Super Bowl Sunday (Packers vs ??) </td>
+                        </tr>
+                        <tr>
+                            <td class="event-cell">13-15 </td>
+                            <td>Campout </td>
+                            <td>Winter Camp at Long Lake <a href="https://forms.gle/HojQwVGcK8aNQZvQ9">Register Link</a></td>
+                        </tr>
+                        <tr>
+                            <td class="event-cell">22 </td>
+                            <td>Troop Meeting </td>
+                            <td>Open Advancement </td>
+                        </tr>
+                        <tr>
+                            <td class="month-cell" colspan="3">March </td>
+                        </tr>
+                        <tr>
+                            <td class="event-cell">1 </td>
+                            <td>Troop Meeting </td>
+                            <td> </td>
+                        </tr>
+                        <tr>
+                            <td class="event-cell">8 </td>
+                            <td>Troop Meeting </td>
+                            <td> </td>
+                        </tr>
+                        <tr>
+                            <td class="event-cell">15 </td>
+                            <td>Troop Meeting </td>
+                            <td> </td>
+                        </tr>
+                        <tr>
+                            <td class="event-cell">22 </td>
+                            <td>Spring Break Week </td>
+                            <td> </td>
+                        </tr>
+                        <tr>
+                            <td class="event-cell">29 </td>
+                            <td>Outing </td>
+                            <td>Hike / Bike Hike? </td>
+                        </tr>
+                        <tr>
+                            <td class="month-cell" colspan="3">April </td>
+                        </tr>
+                        <tr>
+                            <td class="event-cell">5 </td>
+                            <td>No Troop Meeting </td>
+                            <td>Easter Sunday </td>
+                        </tr>
+                        <tr>
+                            <td class="event-cell">12 </td>
+                            <td>Troop Meeting </td>
+                            <td> </td>
+                        </tr>
+                        <tr>
+                            <td class="event-cell">19 </td>
+                            <td>Troop Meeting </td>
+                            <td> </td>
+                        </tr>
+                        <tr>
+                            <td class="event-cell">26 </td>
+                            <td>Outing </td>
+                            <td>Hike / Bike Hike? </td>
+                        </tr>
+                        <tr>
+                            <td class="month-cell" colspan="3">May </td>
+                        </tr>
+                        <tr>
+                            <td class="event-cell">3 </td>
+                            <td>Troop Meeting </td>
+                            <td> </td>
+                        </tr>
+                        <tr>
+                            <td class="event-cell">10 </td>
+                            <td>Troop Meeting </td>
+                            <td> </td>
+                        </tr>
+                        <tr>
+                            <td class="event-cell">17 </td>
+                            <td>Campout </td>
+                            <td>Spring Campout </td>
+                        </tr>
+                        <tr>
+                            <td class="event-cell">24 </td>
+                            <td>Troop Meeting </td>
+                            <td> </td>
+                        </tr>
+                        <tr>
+                            <td class="event-cell">31 </td>
+                            <td>No Troop Meeting </td>
+                            <td>Memorial Day Week </td>
+                        </tr>
+                        <tr>
+                            <td class="month-cell" colspan="3">June </td>
+                        </tr>
+                        <tr>
+                            <td class="event-cell">7 </td>
+                            <td>Troop Meeting </td>
+                            <td> </td>
+                        </tr>
+                        <tr>
+                            <td class="event-cell">14 </td>
+                            <td>Troop Meeting </td>
+                            <td> </td>
+                        </tr>
+                        <tr>
+                            <td class="event-cell">TBD </td>
+                            <td>High Adventure Trip </td>
+                            <td>Boundary Waters / Quetico Canoe Trip </td>
+                        </tr>
+                        <tr>
+                            <td class="event-cell">21 </td>
+                            <td>Troop Meeting </td>
+                            <td> </td>
+                        </tr>
+                        <tr>
+                            <td class="event-cell">28 </td>
+                            <td>Troop Meeting </td>
+                            <td> </td>
+                        </tr>
+                        <tr>
+                            <td class="month-cell" colspan="3">July </td>
+                        </tr>
+                        <tr>
+                            <td class="event-cell">5 </td>
+                            <td>No Troop Meeting </td>
+                            <td>Fourth of July Weekend </td>
+                        </tr>
+                        <tr>
+                            <td class="event-cell">12 </td>
+                            <td>Troop Meeting </td>
+                            <td> </td>
+                        </tr>
+                        <tr>
+                            <td class="event-cell">19 </td>
+                            <td>Troop Meeting </td>
+                            <td> </td>
+                        </tr>
+                        <tr>
+                            <td class="event-cell">26-31 </td>
+                            <td>Summer Camp </td>
+                            <td> </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <p> </p>
+

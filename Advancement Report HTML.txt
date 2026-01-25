@@ -1,0 +1,66 @@
+                <hr>
+
+                <!-- Advancment Report -->
+
+                <h1><img src="https://Troop79.b-cdn.net/5.jpg" style="border: 0px initial #290d0d; vertical-align: middle; width: 100%; max-width: 61px;">
+                    Advancement Report </h1>
+                <br />
+
+                <h3>Ranks Completed </h3>
+                <ul>
+                    <li>None This Week</li>
+                </ul>
+
+                <h3>Merit Badges Completed </h3>
+                <ul>
+                    <li>Sailing - Oliver Kosmoski</li>
+                </ul>
+
+                <h3>Merit Badges Requirements Completed </h3>
+                <ul>
+                    <li>None This Week</li>
+                </ul>
+                <h3>Rank Requirements Completed</h3>
+                <ul>
+
+                    <li><strong>First Class 7e</strong> - Emergency Action Plan for Home
+                        <ul>
+                            <li>Henry Ellerman</li>
+                            <li>Owen Radtke</li>
+                            <li>Solomon Rader</li>
+                            <li>Oscar Belle</li>
+                            <li>Winnie Black</li>
+                            <li>Anjali Sankpal-Tatera</li>
+                            <li>Violet Babby</li>
+                            <li>Lee Pasek</li>
+                            <li>Damian Nikolaus</li>
+                            <li>Robbie Haessley</li>
+                            <li>Oliver Kosmoski</li>
+                        </ul>
+                    </li>
+
+                    <li><strong>Scout 5, 6a</strong> - Pocket Knife Safety; Complete Protect Your Child
+                        <ul>
+                            <li>Isaac Hall</li>
+                        </ul>
+                    </li>
+
+                    <li><strong>First Class 10</strong> - Tell a Friend About Scouts
+                        <ul>
+                            <li>Oliver Kosmoski</li>
+                        </ul>
+                    </li>
+
+                    <li><strong>Second Class 5c, 5d</strong> - Swimming Rescues
+                        <ul>
+                            <li>Winnie Black</li>
+                        </ul>
+                    </li>
+
+                    <h3>Leadership </h3>
+                    <ul>
+                        <li><strong>None This Week</strong>
+                        </li>
+                    </ul>
+
+                    <br>

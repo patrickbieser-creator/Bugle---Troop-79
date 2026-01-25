@@ -1,0 +1,195 @@
+title: "Troop 79 Bugle"
+date: "January 24, 2026"
+hero_image: "https://Troop79.b-cdn.net/Robotic-MB.png"
+logo_image: "https://Troop79.b-cdn.net/Bugle%20Logo.png"
+
+# Troop 79 Bugle
+**February 1, 2026**
+
+## Calendar
+
+[Subscribe](https://sites.google.com/view/bsatroop79bg/home/bugle-calendar-subscription) to the Bugle Calendar to sync with Google, Apple, or Outlook calendars.
+
+## Robotics Part I - This Sunday
+
+**Sunday**, January 25, 2026 — **4:00–5:30**  
+**Uniform:** Class B Uniform (Get a Candy Bar!!)  
+![Class B Uniform](https://Troop79.b-cdn.net/Class-B-Uniform.png){.scout-img-40}
+**Location:** Northwoods 1572 E Capitol Drive  
+**Snack:** Popcorn, chips  
+**Flag Ceremony:** Screaming Eagles  
+**Cleanup:** Fire Quacker  
+[Weekly Duty Roster](https://docs.google.com/document/d/1DYRx1tyAIMnwcLdBoWAY3hvO4EfHDTbe5_n9B_bed70/edit?tab=t.0)  
+  
+
+![Robotics](https://Troop79.b-cdn.net/Robotics1.png){.img-400}  
+
+**Robotics Merit Badge**  
+
+The next two Troop meetings will feature Robotics Merit Badge. This Merit Badge will gives Scouts a hands-on introduction to how robots are designed, programmed, and controlled. Scouts will learn how sensors, motors, software, and human decision-making come together to create machines that can move, think, and respond to the world around them.  
+
+Advanced robots are no longer science fiction. They are already working alongside people in factories, hospitals, warehouses, transportation systems, and even in our homes. Over the next few years, robotics and artificial intelligence will become a routine part of daily life, school, and nearly every career path. Understanding how these systems work is becoming not just interesting, but important.  
+
+This badge emphasizes problem-solving, critical thinking, teamwork, and ethical awareness—skills Scouts will need as technology becomes more powerful and more common. No prior robotics experience is required. Curiosity and a willingness to learn are all that’s needed.  
+
+The badge includes a mix of instruction, discussion, and hands-on activities designed for Scouts with varying levels of technical experience.   
+
+The Robotics meetings have planned by **Lisa Pieper**. Lisa has a degree in Enginneering and is a mentor to four different Robotics clubs!  
+
+## Robotics Part II - Next Sunday at MSOE Campus
+
+**Sunday**, Februrary 1, 2026 — **1:00–4:30**  
+**Note the Time Change!**  
+**Uniform:** Class A Uniform  
+![Class A Uniform](https://Troop79.b-cdn.net/Class-A-Uniform.png){.scout-img-40}
+**Location:** 1444 N. Water Street  
+
+**Robotics Merit Badge - Part II**  
+Next week's meeting will be held at the Robotics Lab at the MSOE STEM Center located at 1444 N. Water Street.  Scouts will have hands-on opportunities to work with robots and fullfill the final merit badge requirements. 
+
+
+## Winter Camp 2026
+
+**Depart:** Friday February 13, 6:00pm from Northwoods  
+**Return:** Sunday February 15, 1:00pm  
+**Location:** Long Lake Scout Camp  [Website]{https://www.pacbsa.org/camping/}
+**Signup for Webelos, Scouts and Leaders:** https://forms.gle/19FGzoQVZKehVsuf9  
+**Driving Directions:** Next Week :)
+
+### Camp Long Lake - Two Lodges
+
+This year's Winter Camp will be held at Long Lake Scout Camp near Campbellsport WI. Sleeping and dining will be indoors. We're planning a collection of fun snow and ice activities as well as indoor fun. Sleeping outside will be an option open to adventurous scouts.
+
+- Meet Friday at 6:00pm, depart when packed
+- Return Sunday around 1:00pm
+- Indoor cabins with bunks
+- Cross Country skiing (hopefully), we're checking on ice skating options
+- Campfire, ice fishing, Risk (the game), Chess, Scrabble, and your favorite games
+- Outdoor activities
+- Hiking in the snow
+- Tumbling & Leg Wrestling?
+- Ping Pong, Pool, and more!
+
+Don't miss it!
+
+### Sleep Outside - Polar Bears at Winter Camp
+
+Want to sleep outside on the deck at Winter Camp? This year a few adventurous youth and wise adults will discover the joys of sleeping under the stars in the winter. The reason is clear. The outside deck at the Lodge will be the warmest, quietest, freshest airiest place to sleep at Winter Camp.
+
+If you want to be the "coolest" scouts at Winter Camp, bring extra gear and join the Frozen Otter Patrol by sleeping outside Friday and/or Saturday evenings. Scouts of any age can do it. Here's what to bring:
+
+- An extra sleeping bag (we'll tuck one into the other).
+- The Troop will bring extra sleeping bags if you don't have one.
+- Warm thick wool socks
+- Wool hat
+- Long underwear or warm pajamas
+- Cotton or fleece hoodie. You'll want to pull this over your head.
+- We will provide a thick foam mattress and a canvas tarp to complete the setup.
+
+**Parents:** The door is very near where we sleep so if a scout gets cold (which is unlikely) s/he can go inside in just a few seconds. Adults monitor the scouts who sleep outside to ensure everyone is setup correctly. Most scouts remark after their first night that they were much warmer than they expected.
+
+## Advancement Report
+
+### Ranks Completed
+- None this week
+
+### Merit Badges Completed
+- None this week
+
+### Rank Requirements Completed
+
+- **Second Class 2e** — Plan a breakfast for a campout and cook it. 
+  - Oscar Belle
+  - Solomon Rader
+  - Robbie Haessley
+  - Damian Nickolaus
+  - Eleanor Hooper
+  - Lee Pasek
+- **First Class 7d** — Utility services at home
+  - Oscar Belle
+d
+## Check Your Clipboard
+
+Click the name to view Advancement Clipboards as of **1/23/26**.
+
+- Adi Alfred — [View file](https://drive.google.com/file/d/1-LcQZ9khIbC3qqGoaLpytIFw5ldRxb1B/view?usp=drivesdk)  
+- Anita Bendre — [View file](https://drive.google.com/file/d/1GJ2I-dFonBnVMAW0ScmFwMDt4Txqxyzg/view?usp=drivesdk)  
+- Anjali Sankpal-Tatera — [View file](https://drive.google.com/file/d/1My1NctoCcuUVpEtsMUYOP-2oXw7hz43k/view?usp=drivesdk)  
+- Ben Bieser — [View file](https://drive.google.com/file/d/17RtEsoX3yKT-P5kh83M5fio_KbPCuYDW/view?usp=drivesdk)  
+- Damian Nikolaus — [View file](https://drive.google.com/file/d/19WBJFjTEIWJX0VVrq8CjXepkcjPSd8ta/view?usp=drivesdk)  
+- Eleanor Hooper — [View file](https://drive.google.com/file/d/1gVTaeS5nDwEKKn8k0LzcsoEn-wJ2PPtz/view?usp=drivesdk)  
+- Finn Paltzer — [View file](https://drive.google.com/file/d/13Iu2WCJWNT1g7-efDlazU3VKiAA7yo2k/view?usp=drivesdk)  
+- Hazel Stollenwerk — [View file](https://drive.google.com/file/d/1n6z2KjskR2y0gtzAayRCRXd5eGQDRW45/view?usp=drivesdk)  
+- Henry Ellerman — [View file](https://drive.google.com/file/d/1_2oAcs5bP7mVT9WYvoEw67rsDIF_gqU6/view?usp=drivesdk)  
+- Isaac Hall — [View file](https://drive.google.com/file/d/1A6d-__LVUBfTKWgyN8LQtGwEc2cUpJmJ/view?usp=drivesdk)  
+- Jack Porter — [View file](https://drive.google.com/file/d/1UifqZsdW3Qk9-xBkkB1c9cYYZxJelPIB/view?usp=drivesdk)  
+- Jameson Kimble — [View file](https://drive.google.com/file/d/1SsLHgBoe6GslXRDIKJnmeOmltQFFAAhl/view?usp=drivesdk)  
+- Kevin Pieper — [View file](https://drive.google.com/file/d/1c7CjJBLfiarc-8SNWbg2fVQZ2lVk_vGR/view?usp=drivesdk)  
+- Lee Pasek — [View file](https://drive.google.com/file/d/1lDHVqADZUXhNEDmRiaTgsaw0SpU3jZYg/view?usp=drivesdk)  
+- Lilly Porter — [View file](https://drive.google.com/file/d/1HcqH8v8Th8qKWsTlqa5Ba3uTjkNG5uh3/view?usp=drivesdk)  
+- Lucy Lyden — [View file](https://drive.google.com/file/d/1HuUre_iii4Ncle8ucAPegP5oi5qxvL9z/view?usp=drivesdk)  
+- Maya Sankpal-Tatera — [View file](https://drive.google.com/file/d/1m15kl_R2mZY_s7bcreGySAwiGnVIvNJy/view?usp=drivesdk)  
+- Myles Maciejewski — [View file](https://drive.google.com/file/d/1y_vrv7hxICuZjz_DEp7Gei3Iyz1yhaCU/view?usp=drivesdk)  
+- Oliver Kosmoski — [View file](https://drive.google.com/file/d/1i_oXfwqbn7lYtudowiT8NfFbhpz5ZGdz/view?usp=drivesdk)  
+- Oliver Vest — [View file](https://drive.google.com/file/d/1qsERCFhcEVzPeok_0rNFPpNRSPAbnAZr/view?usp=drivesdk)  
+- Oscar Belle — [View file](https://drive.google.com/file/d/1zoBjjFRYL0FjkaoPaKfDIMlABfAQ2WE7/view?usp=drivesdk)  
+- Owen Radtke — [View file](https://drive.google.com/file/d/1LOdufAsaUEyNFH2qu6JVtBvEPsJVjrVq/view?usp=drivesdk)  
+- Quinn Barry — [View file](https://drive.google.com/file/d/1BF98QWblBfaqSgjv5I5OWnTiXeg0hkm6/view?usp=drivesdk)  
+- Robbie Haessley — [View file](https://drive.google.com/file/d/1dOzkhyhwa7oIp3oGicawVQPXnFbV5Aup/view?usp=drivesdk)  
+- Rose Manning — [View file](https://drive.google.com/file/d/1J4eYkHmiwyV-npQzKqWoci_4LbG7UIQM/view?usp=drivesdk)  
+- Solomon Rader — [View file](https://drive.google.com/file/d/1I44Ktqda5NqFWAWvzxvAwBTSSM1x_MP5/view?usp=drivesdk)  
+- Veronica Kleinfeldt — [View file](https://drive.google.com/file/d/1ljy25kHEhBiwEm6avXH8Zwf4it02cl65/view?usp=drivesdk)  
+- Violet Babby — [View file](https://drive.google.com/file/d/1MO6T6GmX5Ep45g2pIKExFabRN4VrNJOM/view?usp=drivesdk)  
+- Winnie Black — [View file](https://drive.google.com/file/d/1wi3a0FTPC_73-PTlGRmpmeqCW-8G0N0Y/view?usp=drivesdk)  
+- Xavier Juchemich — [View file](https://drive.google.com/file/d/1JozdjBu9Nld-hwpsOoyu24MhWnPojx0V/view?usp=drivesdk)  
+
+The most recent advancement is online. Use a computer or laptop. Mobile phones don't work well. [Advancement Tracking Google Sheet:](https://gmail.us21.list-manage.com/track/click?u=c89c082301e501c041c821c09&id=b2e7389f0c&e=bc16bf33f2)   
+
+In addition to the links below, you can view scout clipboards by selecting a scout name from the pull-down list: [Scout Name for Clipboard:](https://gmail.us21.list-manage.com/track/click?u=c89c082301e501c041c821c09&id=f706999f0b&e=bc16bf33f2) 
+
+Let Mellissa Rader know if anything is missing, inaccurate, or misdated.
+
+### Merit Badge Progress is Tracked Separately
+- [Archery](https://docs.google.com/spreadsheets/d/1J45iZvAkq1tN4W5dNdd4pEokCP1DK6aleXNaob4Ls8k/edit?gid=0#gid=0)  
+- [Astronomy](https://docs.google.com/spreadsheets/d/1GvqJVAWPZrcp0FRd7ckgY5IPtzjc8SWYHV9q7zxmn5w/edit?usp=sharing) (Updated 2/17/25)  
+- [Aviation](https://docs.google.com/spreadsheets/d/17ac-Fy-UU-tYeBmdDbykfCq_7LauciCUjMhf500nuIQ/edit?gid=0#gid=0)  
+- [Basketry](https://docs.google.com/spreadsheets/d/1P6exG_Hc2Mh-Hs1cALPsmnqvlY2g43sPt5pC6FCHQWg/edit?gid=0#gid=0) (Updated 3/8/25)  
+- [Camping (E)](https://docs.google.com/spreadsheets/d/1Apzjtm2GmKlQHQ5t4CqJRnBnRq2-vn-9gqPu-iLwKQs/edit?gid=0#gid=0) (Updated 6/16/25)  
+- [Chess](https://docs.google.com/spreadsheets/d/1CTzRTl-7d5xIFqUv3Wsc-KkqHaB8u9h0JaIHkW2SwV0/edit?usp=sharing) (Updated 10/25/25)  
+- [Citizenship in Community (E)](https://docs.google.com/spreadsheets/d/1ktes1pFNhxAcoCrY2CtZj_cxlH5C2ep_T32p_4OxJSk/edit?gid=0#gid=0) (Updated 11/2/25)  
+- [Citizenship in Nation (E)](https://docs.google.com/spreadsheets/d/1fYGH2IsUhfXwq0ELGFgjRxTxo55_Wbk-EOSyh-L93Ao/edit?usp=sharing) (Updated 9/1/25)  
+- [Communications (E)](https://docs.google.com/spreadsheets/d/1HIjEC8HNsJLLx7xJgbAMTqDz3o9EsI5hNNaO8xCx8uo/edit?gid=0#gid=0) (Updated 1/25/25)  
+- [Cooking (E)](https://docs.google.com/spreadsheets/d/1IkHhG4bUTlSE8P-vmp1ADf1Dzh8KXA-0tGNDbjasVog/edit?gid=0#gid=0) (Updated 1/24/26)  
+- [Cycling (E)](https://docs.google.com/spreadsheets/d/1JCXqSx0r3rFumAsNfGGKwwyRF_e6aehrO4XbdF6F0rE/edit?usp=sharing)  
+- [Electricity](https://docs.google.com/spreadsheets/d/1PDwYMN4-43zMa4g-TZGJ2Ci-MCeTNBUe8WbYezHtGis/edit?gid=0#gid=0)  
+- [Emergency Preparedness (E)](https://docs.google.com/spreadsheets/d/1s3FMqo9YusXsrSoa9nIZ3VJbglYgbkn8hSoWrSdqYVQ/edit?usp=sharing)  
+- [Environmental Science (E)](https://docs.google.com/spreadsheets/d/1cgYJXxRyeVQR4uuWsagUBwpnqwOSe4Pz-hd88V7Mq6o/edit?gid=0#gid=0)  
+- [Family Life (E)](https://docs.google.com/spreadsheets/d/1jadtJ1Qq4h0rkbC2XZq9lD6zi914kcdm4V0ta8lozHI/edit?gid=0#gid=0) (Updated 2/4/25)  
+- [First Aid (E)](https://docs.google.com/spreadsheets/d/1nr7qgiEYbYevpW6mtPS5qBCoUieH0TtG-KJNpM5SfCA/edit?gid=0#gid=0)  
+- [Fishing](https://docs.google.com/spreadsheets/d/1qOXhKrzjQj3uuPwkO4cw2nf4aPzvSp33YPNRxXp3Azw/edit?gid=0#gid=0) (Updated 2/18/25)  
+- [Game Design](https://docs.google.com/spreadsheets/d/13OEErnWWfUV5th63naBgIQRuXzpLRelZnjMrKQzczuE/edit?gid=0#gid=0)  
+- [Hiking (E)](https://docs.google.com/spreadsheets/d/1jEdT-efgNsCK94kbGoXNdRC0YypAgUySmSXTBDn1Qu4/edit?usp=sharing)  
+- [Leather Work](https://docs.google.com/spreadsheets/d/1F_JYET4p--2-SncMtnkOvi724vaby0joydJpZLkDv2s/edit?gid=0#gid=0) (Updated 1/25/25)  
+- [Lifesaving (E)](https://docs.google.com/spreadsheets/d/1XGOU3WCqI3iy4RmoiZAfzIoYI2LQvNkl0xa1Hpv8rCE/edit?usp=sharing)  
+- [Moviemaking](https://docs.google.com/spreadsheets/d/1Lph5qQ7mVvwc1rH9XpZLGJ6yqFUf85B4CMuyjAHnRxA/edit?gid=0#gid=0)  
+- [Personal Fitness](https://docs.google.com/spreadsheets/d/1a-lP7ilzsF-4TYVBjdgWmZxpJ1a1NJz8uXu3M45Sawk/edit?usp=sharing) (Updated 11/2/25)  
+- [Personal Management](https://docs.google.com/spreadsheets/d/1l-8-5bbHNUo4lFYAJLRqrMeDuIAjQZJQz8w_6NA5Fvw/edit?gid=0#gid=0) (Updated 10/11/25)  
+- [Photography](https://docs.google.com/spreadsheets/d/1vk8j_EC6PJ9QyzsEe2Qd617Q1d_lVX8fR6bPM1XkBaI/edit?usp=sharing)  
+- [Rifle Shooting](https://docs.google.com/spreadsheets/d/1HlvpXe46MNxKweDMiRhbABSCrvvNLnv5qssbjE0Xlhk/edit?usp=sharing) (Updated 1/25/25)  
+- [Robotics](https://docs.google.com/spreadsheets/d/1lyB5sL7hs4MVbPF54d2Y2N6sPOI7F17bN9AgNhu3Bb0/edit?gid=0#gid=0)  
+- [Snow Sports](https://docs.google.com/spreadsheets/d/1tfylaJ9eiKss9ruHMNYivawj_9dnN9YBp4VKIw_tXOk/edit?usp=sharing) (Updated 2/24/25)  
+- [Sustainability (E)](https://docs.google.com/spreadsheets/d/1IhnbjpyfIungR-YwmKE4KIb8-TxgvFrHrkigxuSiMEs/edit?usp=sharing)  
+- [Swimming (E)](https://docs.google.com/spreadsheets/d/1oGNIcR4hfOq1yB0psuGivQiU8o7YQjmfbG0PgGuLujk/edit?usp=sharing)  
+
+## Sparklers
+
+- I have two unwritten rules:  1.  2.
+- I always try to say "mucho" around my Spanish speaking friends. It means a lot to them.
+- If vegetarians eat veggies, what do humanitarians eat?
+- I think my email account was hacked. If you get any messages from me about canned meat don't open them. It's spam.
+- My five-year-old daughter emerged from the bathroom and asked me "where does poo comes from?" I paused, then briefly told her about food, digestion, and waste. She listened carefully, nodded, and then asked: "so then where does Tigger come from?"
+
+---
+
+_Unsubscribe:_ {{UnsubscribeURL}}  
+{{SenderInfoLine}}

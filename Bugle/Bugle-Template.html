@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Troop 79 Bugle</title>
+
+    <style type="text/css">
+        /* Basic email resets */
+        html,
+        body {
+            margin: 10px;
+            padding: 0;
+        }
+
+        body {
+            -webkit-text-size-adjust: 100%;
+            -ms-text-size-adjust: 100%;
+            text-size-adjust: 100%;
+            font-family: Helvetica, Arial, sans-serif;
+            font-size: 16px;
+            line-height: 1.5;
+            text-align: left;
+            background-color: #ffffff;
+            color: #202020;
+        }
+
+        /* Layout 
+        .wrapper {
+            width: 100%;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 750px;
+            margin: 0 auto;
+            padding: 12px;
+            text-align: left;
+        }
+        
+        p {
+            margin: 0 0 12px 0;
+        }
+
+        li ul {
+            padding-left: 5px;
+            margin-left: 15px;
+        }
+         */
+
+        p,
+        ul,
+        li {
+            vertical-align: top;
+            word-break: break-word;
+            /* margin-left: 15px; */
+        }
+        
+        li,
+        ul {
+            padding-left: 5px;
+            margin-left: 15px;
+            /* approximately 2 character widths */
+        }
+
+        /* Headings */
+        h1 {
+            display: block;
+            margin: 0;
+            padding: 0;
+            color: #206a81;
+            font-family: Helvetica;
+            font-size: 26px;
+            font-style: normal;
+            font-weight: bold;
+            line-height: 125%;
+            letter-spacing: normal;
+            text-align: left;
+            margin-top: 20px;
+            /* Adds space above the heading */
+        }
+
+        h2 {
+            margin: 16px 0 8px 0;
+            padding: 0;
+            color: #202020;
+            font-size: 20px;
+            font-weight: 700;
+            line-height: 1.25;
+        }
+
+        h3 {
+            word-break: break-word;
+            display: block;
+            margin: 0;
+            padding: 0;
+            color: #202020;
+            font-family: Helvetica;
+            font-size: 20px;
+            font-style: normal;
+            font-weight: bold;
+            line-height: 125%;
+            letter-spacing: normal;
+            text-align: left;
+            margin-bottom: 0.5em;
+            /* Half a line */
+        }
+
+        /* Horizontal rule 
+        hr {
+            border: 0;
+            border-top: 2px solid #e7e7e7;
+            margin: 18px 0;
+        }  */
+
+        .subtitle-size {
+            font-size: 14px;
+        }    
+        /* Smaller font size for the span content */
+        /* Or use a relative size like: font-size: 0.6em; */
+        
+        /* Images */
+
+        img {
+            border: 0;
+            outline: none;
+            text-decoration: none;
+            -ms-interpolation-mode: bicubic;
+            height: auto !important;
+            max-width: 100%;
+            display: block;
+        }
+
+        .scout-img-40 {
+            vertical-align: middle;
+            width: 100%;
+            max-width: 150px;
+            border-radius: 40%;
+            object-fit: cover;
+        }
+
+        .img-400 {
+            vertical-align: middle;
+            width: 100%;
+            max-width: 400px;
+            border-radius: 10%;
+            object-fit: cover;
+        }
+
+        .centered {
+            margin: 0 auto;
+        }
+
+        /* Section heading (badge + title) */
+        .section-title {
+            display: block;
+            margin: 0;
+            padding: 0;
+            color: #206a81;
+            font-size: 26px;
+            font-weight: 700;
+            line-height: 1.25;
+        }
+
+        .badge {
+            display: inline-block;
+            vertical-align: middle;
+            width: 63px;
+            max-width: 63px;
+            margin-right: 8px;
+        }
+
+        /* Calendar table */
+        .my-custom-table {
+            border-collapse: collapse;
+            border: 1px solid #E7E7E7;
+            padding: 0;
+            border-spacing: 0;
+            width: 100%;
+            max-width: 750px;
+            font-family: Helvetica, Arial, sans-serif;
+        }
+
+        /* Default cells */
+        .my-custom-table td {
+            border: 1px solid #E7E7E7;
+            padding: 1px 1px;
+            vertical-align: top;
+        }
+
+        /* Event cells */
+        .my-custom-table .event-cell {
+            text-align: left;
+            padding-left: 12px;
+        }
+
+        /* Month cells */
+        .my-custom-table .month-cell {
+            font-weight: 900;
+            text-align: left;
+            padding-left: 4px;
+            background-color: #f9f9f9;
+        }
+
+        /* Mobile tweaks */
+        @media only screen and (max-width: 600px) {
+            body {
+                font-size: 15px;
+                line-height: 1.6;
+            }
+
+            h1,
+            .section-title {
+                font-size: 22px;
+            }
+
+            h2 {
+                font-size: 18px;
+            }
+
+            .container {
+                padding: 10px;
+            }
+
+            .badge {
+                width: 56px;
+                max-width: 56px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <table role="presentation" class="wrapper" width="100%" cellpadding="0" cellspacing="0">
+        <tr>
+            <td align="center">
+                <div class="container" style="text-align:left;">
+
+                    <!-- HEADER / HERO -->
+                    <h1 style="text-align:center; margin-top: 10px;">
+                        <img alt="Bugle Hero" class="centered" src="{{BUGLE_HERO_IMAGE}}"
+                            style="border: 2px solid #1b0101; width: 100%; max-width: 300px; border-radius: 10%; object-fit: cover;">
+                        <div style="height:8px; line-height:8px;">&nbsp;</div>
+                        <img alt="Troop 79 Logo" class="centered" src="{{BUGLE_LOGO_IMAGE}}"
+                            style="width: 100%; max-width: 271px;">
+                    </h1>
+
+                    <h1 style="text-align:center; margin-top: 10px;">{{BUGLE_DATE}}</h1>
+
+                    <!-- OPTIONAL INTRO (if you want a short note at the top) -->
+                    {{BUGLE_INTRO_HTML}}
+
+                    <!-- MAIN SECTIONS (generated from Markdown) -->
+                    {{BUGLE_SECTIONS_HTML}}
+
+                    <hr>
+                    <p style="font-size: 14px; line-height: 1.4;">
+                        <a href="{{UNSUBSCRIBE_URL}}">Click here to Unsubscribe from the Troop 79 Bugle</a>
+                    </p>
+                    <p style="font-size: 12px; line-height: 1.4; color: #666;">
+                        The Troop 79 Bugle is a publication of Troop 79, Milwaukee, WI. Copyright © 2026 Troop 79. All
+                        rights reserved.
+                        <br>
+                        {{SENDER_INFO_LINE}}
+                    </p>
+
+                </div>
+            </td>
+        </tr>
+    </table>
+</body>
+
+</html>

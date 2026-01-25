@@ -1,0 +1,15 @@
+                    <!-- Sparklers -->
+
+                    <h1><img src="https://Troop79.b-cdn.net/1.jpg" style="vertical-align: middle; width: auto; width: 100%; max-width: 75px" /> Sparklers <img
+                            src="https://Troop79.b-cdn.net/Sparklers.jpg" style="font-size: 13px; vertical-align: middle;" width="100" />
+                    </h1>
+
+                    <ul>
+                        <li> A sweater I bought was picking up static electricity, so I returned it to the store. They gave me another one free of charge.</li>
+                        <li> An old man named Rudolph the Red was looking out his window when he said, "it's going to rain." His wife asked "how do you know?" He answered, "Rudolph the
+                            Red
+                            knows rain, dear".</li>
+                        <li> Amazon can be unreasonable. I ordered grain for my chickens and it arrived as expected, but then they emailed me asking for my feedback.</li>
+                        <li> Is a cow that gives birth decalfinanted?</li>
+                        <li> Santa had to fire an elf who was ignoring the rules. Now he's a rebel without a claus.</li>
+                    </ul>

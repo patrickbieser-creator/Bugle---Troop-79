@@ -1,0 +1,42 @@
+
+                    <!-- Rank Next Steps -->
+
+                    <hr />
+                    <h1><img src="https://Troop79.b-cdn.net/3.jpg" style="vertical-align: middle; width: 100%; max-width: 70px;">
+                        Rank Advancement Homework</h1>
+
+                    <!--Second Class -->
+
+                    <br />
+                    <h3><img src="https://Troop79.b-cdn.net/Second%20Class%20Badge.jpg"
+                            style="border: 0px; vertical-align: middle; height: auto; margin: 0px; width: 100%; max-width: 130px" /> Second
+                        Class </h3>
+
+
+                    <p><strong>Req 8c and 8d - Budgeting and Purchasing</strong>: Make a budget plan for a purchase and talk to your parents about
+                        it, complete the purchase and come back to report it:</p>
+
+                    <ul>
+                        <li><span>Quinn Barry</span></li>
+                        <li><span>Robbie Haessley</span></li>
+                        <li><span>Violet Babby</span></li>
+                    </ul>
+
+
+                    <!--First  Class -->
+
+
+                    <h3><img src="https://Troop79.b-cdn.net/First%20Class%20Badge.jpg"
+                            style="border: 0px; vertical-align: middle; height: auto; margin: 0px; width: 100%; max-width: 120px" /> First
+                        Class </h3>
+
+
+                    <br />
+                    <strong>Reg 9b: Research an environmental impact (wild fire, pollution, etc.)</strong>:
+                    think about what they can do as a Troop to help. They need to report back to Nate Vest on this topic.
+
+                    <ul>
+                        <li><span>Oliver Kosmoski </span></li>
+                    </ul>
+                    <br>
+                    <hr>
