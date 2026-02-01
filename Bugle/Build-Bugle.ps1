@@ -19,8 +19,8 @@ param(
     [Parameter(Mandatory = $true)][string]$MarkdownPath,
     [Parameter(Mandatory = $true)][string]$OutPath,
 
-    [Parameter(Mandatory = $true)][string]$BugleDate,
-    [Parameter(Mandatory = $true)][string]$HeroImage,
+    [Parameter(Mandatory = $false)][string]$BugleDate,
+    [Parameter(Mandatory = $false)][string]$HeroImage,
     [Parameter(Mandatory = $true)][string]$LogoImage,
 
     [Parameter(Mandatory = $false)][string]$CalendarHtmlPath,
@@ -143,6 +143,7 @@ function Render-SectionHtml(
     $titleEsc = HtmlEncode $Title
 
     $out = @()
+    $out += "<br>"
     $out += "<hr>"
     $out += "<h1 class=`"section-title`">$badgeHtml$titleEsc</h1>"
     $out += "<div style=`"height:8px; line-height:8px;`">&nbsp;</div>"

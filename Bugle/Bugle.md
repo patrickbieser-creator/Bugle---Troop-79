@@ -1,7 +1,4 @@
 title: "Troop 79 Bugle"
-date: "January 24, 2026"
-hero_image: "https://Troop79.b-cdn.net/Robotic-MB.png"
-logo_image: "https://Troop79.b-cdn.net/Bugle%20Logo.png"
 
 # Troop 79 Bugle
 **February 1, 2026**
@@ -10,23 +7,24 @@ logo_image: "https://Troop79.b-cdn.net/Bugle%20Logo.png"
 
 [Subscribe](https://sites.google.com/view/bsatroop79bg/home/bugle-calendar-subscription) to the Bugle Calendar to sync with Google, Apple, or Outlook calendars.
 
-## Robotics Part I - This Sunday
+## Robotics Part II at MSOE Campus - This Sunday  
+**Note Time Change!**  
+**Sunday**, Februrary 1, 2026, **1:00–4:30**  
+**Uniform:** Class A Uniform  
+![Class A Uniform](https://Troop79.b-cdn.net/Class-A-Uniform.png){.scout-img-40}
+**Location:** 1444 N. Water Street, Milwaukee WI  
+**Map for Parking:** [MSOE STEM Center Parking](https://www.threeharborsscouting.org/document/mapforstemcenterparking/205026)
 
-**Sunday**, January 25, 2026 — **4:00–5:30**  
-**Uniform:** Class B Uniform (Get a Candy Bar!!)  
-![Class B Uniform](https://Troop79.b-cdn.net/Class-B-Uniform.png){.scout-img-40}
-**Location:** Northwoods 1572 E Capitol Drive  
-**Snack:** Popcorn, chips  
-**Flag Ceremony:** Screaming Eagles  
-**Cleanup:** Fire Quacker  
-[Weekly Duty Roster](https://docs.google.com/document/d/1DYRx1tyAIMnwcLdBoWAY3hvO4EfHDTbe5_n9B_bed70/edit?tab=t.0)  
-  
+### Robotics Merit Badge - Part II  
+This week's meeting will again feature Robotics Merit Badge. We will meet at the Robotics Lab at the MSOE STEM Center located at 1444 N. Water Street. Scouts will be hands-on working in groups of two or three to program robots and fullfilling merit badge requirements 5 and 6. 
+
+[Robotics Merit Badge Progress Tracking and Requirements](https://docs.google.com/spreadsheets/d/1SigKBhGJE9m4X5HacWsqCEQ7yT_A4QTlBaRfBYLLGsU/edit?gid=0#gid=0)  
 
 ![Robotics](https://Troop79.b-cdn.net/Robotics1.png){.img-400}  
 
-**Robotics Merit Badge**  
+[Robot Training Preview](https://www.facebook.com/share/v/16M2Sy83ZJ/) on the Troop 79 Facebook page. Watch a preview of what the scouts will build.  
 
-The next two Troop meetings will feature Robotics Merit Badge. This Merit Badge will gives Scouts a hands-on introduction to how robots are designed, programmed, and controlled. Scouts will learn how sensors, motors, software, and human decision-making come together to create machines that can move, think, and respond to the world around them.  
+This Merit Badge is hands-on, and scouts will learn how robots are designed, programmed, and controlled. Scouts will learn how sensors, motors, software, and human decision-making come together to create machines that can move, think, and respond to the world around them.  
 
 Advanced robots are no longer science fiction. They are already working alongside people in factories, hospitals, warehouses, transportation systems, and even in our homes. Over the next few years, robotics and artificial intelligence will become a routine part of daily life, school, and nearly every career path. Understanding how these systems work is becoming not just interesting, but important.  
 
@@ -34,27 +32,16 @@ This badge emphasizes problem-solving, critical thinking, teamwork, and ethical 
 
 The badge includes a mix of instruction, discussion, and hands-on activities designed for Scouts with varying levels of technical experience.   
 
-The Robotics meetings have planned by **Lisa Pieper**. Lisa has a degree in Enginneering and is a mentor to four different Robotics clubs!  
-
-## Robotics Part II - Next Sunday at MSOE Campus
-
-**Sunday**, Februrary 1, 2026 — **1:00–4:30**  
-**Note the Time Change!**  
-**Uniform:** Class A Uniform  
-![Class A Uniform](https://Troop79.b-cdn.net/Class-A-Uniform.png){.scout-img-40}
-**Location:** 1444 N. Water Street  
-
-**Robotics Merit Badge - Part II**  
-Next week's meeting will be held at the Robotics Lab at the MSOE STEM Center located at 1444 N. Water Street.  Scouts will have hands-on opportunities to work with robots and fullfill the final merit badge requirements. 
+The Robotics meetings have planned by **Lisa Pieper**. Lisa has a degree in Enginneering and is a mentor to four different Robotics clubs!
 
 
 ## Winter Camp 2026
 
 **Depart:** Friday February 13, 6:00pm from Northwoods  
 **Return:** Sunday February 15, 1:00pm  
-**Location:** Long Lake Scout Camp  [Website]{https://www.pacbsa.org/camping/}
-**Signup for Webelos, Scouts and Leaders:** https://forms.gle/19FGzoQVZKehVsuf9  
-**Driving Directions:** Next Week :)
+**Location:** [Long Lake Scout Camp](https://www.pacbsa.org/camping/)  
+**Signup for Webelos, Scouts and Leaders:** [Google Form](https://forms.gle/19FGzoQVZKehVsuf9)  
+**Driving Directions:** [Google Map](https://www.google.com/maps/dir/1572+E+Capitol+Dr,+Shorewood,+WI+53211/Camp+Long+Lake+Scout+Camp+-+Potawatomi+Area+Council,+N4350+Boy+Scout+Dr,+St+Cloud,+WI+53079/@43.3925913,-88.3891895,10z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x88051f26669e65c5:0xe3f94b7fd83309b0!2m2!1d-87.8903138!2d43.0895192!1m5!1m1!1s0x88047dfece626ded:0xd127628adae9674!2m2!1d-88.1677591!2d43.694523?entry=ttu&g_ep=EgoyMDI2MDEyOC4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D)    
 
 ### Camp Long Lake - Two Lodges
 
@@ -88,26 +75,29 @@ If you want to be the "coolest" scouts at Winter Camp, bring extra gear and join
 
 **Parents:** The door is very near where we sleep so if a scout gets cold (which is unlikely) s/he can go inside in just a few seconds. Adults monitor the scouts who sleep outside to ensure everyone is setup correctly. Most scouts remark after their first night that they were much warmer than they expected.
 
+## High Adventure Trip to the BWCA - June 20-27
+
+We have secured two BWCA wilderness permits for our first ever High Aventure Trip (HAT). The permits allow for up to 9 people per crew -- one crew will enter at [Snowflake Lake](https://bwca.com/index.cfm?fuseaction=maps.entryhome&locid=27) (OP), and the other at [Lake One](https://bwca.com/index.cfm?fuseaction=maps.entryhome&locid=30) (OP).  
+
+As of 1/29, we have heard from 14 scouts and adults who are interested, and received the $100 downpayment from 12. In theory we have room for 4 more scouts or adults. 
+
+To be eligible for this trip a Scout must be first class or above and be going into 9th grade or above this fall. [Reserve your spot here.](https://docs.google.com/forms/d/1I_MARXWjQGcyJk5poll2FOI0fWZMXqj3Uq-aQfL0X4A/edit/)  A down payment of $100 is required.  The total cost of the trip is estimated to be around $650. Traveling to the Boundary Waters is a rare opportunity, and one scouts should not pass up it they are eligible to attend.
+
+The National Forest Services has produced a series of videos that are required viewing for everyone participating. 
+
+[![BWCA Visitor Video](https://Troop79.b-cdn.net/BWCA-Viiitor-Video.png){.img-600}](https://www.youtube.com/watch?v=nen7lRqEjm8)  
+
 ## Advancement Report
 
 ### Ranks Completed
 - None this week
 
-### Merit Badges Completed
-- None this week
+### Merit Badge Requirements Completed
+- [Robotics Merit Badge Progress Tracking and Requirements](https://docs.google.com/spreadsheets/d/1SigKBhGJE9m4X5HacWsqCEQ7yT_A4QTlBaRfBYLLGsU/edit?gid=0#gid=0)  
 
 ### Rank Requirements Completed
+- None this week
 
-- **Second Class 2e** — Plan a breakfast for a campout and cook it. 
-  - Oscar Belle
-  - Solomon Rader
-  - Robbie Haessley
-  - Damian Nickolaus
-  - Eleanor Hooper
-  - Lee Pasek
-- **First Class 7d** — Utility services at home
-  - Oscar Belle
-d
 ## Check Your Clipboard
 
 Click the name to view Advancement Clipboards as of **1/23/26**.
@@ -176,18 +166,18 @@ Let Mellissa Rader know if anything is missing, inaccurate, or misdated.
 - [Personal Management](https://docs.google.com/spreadsheets/d/1l-8-5bbHNUo4lFYAJLRqrMeDuIAjQZJQz8w_6NA5Fvw/edit?gid=0#gid=0) (Updated 10/11/25)  
 - [Photography](https://docs.google.com/spreadsheets/d/1vk8j_EC6PJ9QyzsEe2Qd617Q1d_lVX8fR6bPM1XkBaI/edit?usp=sharing)  
 - [Rifle Shooting](https://docs.google.com/spreadsheets/d/1HlvpXe46MNxKweDMiRhbABSCrvvNLnv5qssbjE0Xlhk/edit?usp=sharing) (Updated 1/25/25)  
-- [Robotics](https://docs.google.com/spreadsheets/d/1lyB5sL7hs4MVbPF54d2Y2N6sPOI7F17bN9AgNhu3Bb0/edit?gid=0#gid=0)  
+- [Robotics](https://docs.google.com/spreadsheets/d/1SigKBhGJE9m4X5HacWsqCEQ7yT_A4QTlBaRfBYLLGsU/edit?gid=0#gid=0)  (Updated 1/25/26)
 - [Snow Sports](https://docs.google.com/spreadsheets/d/1tfylaJ9eiKss9ruHMNYivawj_9dnN9YBp4VKIw_tXOk/edit?usp=sharing) (Updated 2/24/25)  
 - [Sustainability (E)](https://docs.google.com/spreadsheets/d/1IhnbjpyfIungR-YwmKE4KIb8-TxgvFrHrkigxuSiMEs/edit?usp=sharing)  
 - [Swimming (E)](https://docs.google.com/spreadsheets/d/1oGNIcR4hfOq1yB0psuGivQiU8o7YQjmfbG0PgGuLujk/edit?usp=sharing)  
 
 ## Sparklers
 
-- I have two unwritten rules:  1.  2.
-- I always try to say "mucho" around my Spanish speaking friends. It means a lot to them.
-- If vegetarians eat veggies, what do humanitarians eat?
-- I think my email account was hacked. If you get any messages from me about canned meat don't open them. It's spam.
-- My five-year-old daughter emerged from the bathroom and asked me "where does poo comes from?" I paused, then briefly told her about food, digestion, and waste. She listened carefully, nodded, and then asked: "so then where does Tigger come from?"
+- Canadian Word of the Day: Fascinate. If you have a shirt with nine buttons, sometime it's stylish to only fascinate. 
+- Pies in Jamacia sell for $6, while in the Virgin Islands they go for $5. In Cuba pies go for $3. Those are the Pie-rates of the Carribean. 
+- Our dog just ate an entire bag of scrabble tiles so we rushed him to the vet.... No word yet.
+- With all the cold weather our flight got cancelled and our luggage got sad, so now we're dealing with emotional baggage. 
+- Scientists just tested the world's strongest suction cup.  I don't know how they pulled it off.
 
 ---
 
