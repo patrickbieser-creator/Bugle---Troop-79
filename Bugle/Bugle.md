@@ -8,7 +8,6 @@ title: "Troop 79 Bugle"
 [Subscribe](https://sites.google.com/view/bsatroop79bg/home/bugle-calendar-subscription) to the Bugle Calendar to sync with Google, Apple, or Outlook calendars.
 
 ## Robotics Part II at MSOE Campus - This Sunday  
-**Note Time Change!**  
 **Sunday**, Februrary 1, 2026, **1:00–4:30**  
 **Uniform:** Class A Uniform  
 ![Class A Uniform](https://Troop79.b-cdn.net/Class-A-Uniform.png){.scout-img-40}
