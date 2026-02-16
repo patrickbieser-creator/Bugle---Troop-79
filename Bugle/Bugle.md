@@ -1,7 +1,7 @@
 title: "Troop 79 Bugle"
 
 # Troop 79 Bugle
-**February 1, 2026**
+**February 19, 2026**
 
 ## Calendar
 
