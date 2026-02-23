@@ -3,6 +3,6 @@
   -MarkdownPath .\bugle.md `
   -CalendarHtmlPath .\calendar.html `
   -OutPath .\output\bugle.html `
-  -BugleDate "February 1, 2026" `
-  -HeroImage "https://Troop79.b-cdn.net/STEM-Center-MSOE.png" `
+  -BugleDate "February 22, 2026" `
+  -HeroImage "https://Troop79.b-cdn.net/WinterCampGrpoup-2026.png" `
   -LogoImage "https://Troop79.b-cdn.net/Bugle%20Logo.png"

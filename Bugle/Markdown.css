@@ -1,0 +1,228 @@
+        html,
+        body {
+            margin: 10px;
+            padding: 0;
+        }
+
+        body {
+            -webkit-text-size-adjust: 100%;
+            -ms-text-size-adjust: 100%;
+            text-size-adjust: 100%;
+            font-family: Helvetica, Arial, sans-serif;
+            font-size: 16px;
+            line-height: 1.5;
+            text-align: left;
+            background-color: #ffffff;
+            color: #202020;
+        }
+
+        /* Layout 
+        .wrapper {
+            width: 100%;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 750px;
+            margin: 0 auto;
+            padding: 12px;
+            text-align: left;
+        }
+        
+        p {
+            margin: 0 0 12px 0;
+        }
+
+        li ul {
+            padding-left: 5px;
+            margin-left: 15px;
+        }
+         */
+
+        p,
+        ul,
+        li {
+            vertical-align: top;
+            word-break: break-word;
+            /* margin-left: 15px; */
+        }
+        
+        li,
+        ul {
+            padding-left: 5px;
+            margin-left: 15px;
+            /* approximately 2 character widths */
+        }
+
+        /* Headings */
+        h1 {
+            display: block;
+            margin: 0;
+            padding: 0;
+            color: #206a81;
+            font-family: Helvetica;
+            font-size: 26px;
+            font-style: normal;
+            font-weight: bold;
+            line-height: 125%;
+            letter-spacing: normal;
+            text-align: left;
+            margin-top: 20px;
+            /* Adds space above the heading */
+        }
+
+        h2 {
+            margin: 16px 0 8px 0;
+            padding: 0;
+            color: #202020;
+            font-size: 20px;
+            font-weight: 700;
+            line-height: 1.25;
+        }
+
+        h3 {
+            word-break: break-word;
+            display: block;
+            margin: 0;
+            padding: 0;
+            color: #202020;
+            font-family: Helvetica;
+            font-size: 20px;
+            font-style: normal;
+            font-weight: bold;
+            line-height: 125%;
+            letter-spacing: normal;
+            text-align: left;
+            margin-bottom: 0.5em;
+            /* Half a line */
+        }
+
+        /* Horizontal rule 
+        hr {
+            border: 0;
+            border-top: 2px solid #e7e7e7;
+            margin: 18px 0;
+        }  */
+
+        .subtitle-size {
+            font-size: 14px;
+        }    
+        /* Smaller font size for the span content */
+        /* Or use a relative size like: font-size: 0.6em; */
+        
+        /* Images */
+
+        img {
+            border: 0;
+            outline: none;
+            text-decoration: none;
+            -ms-interpolation-mode: bicubic;
+            height: auto !important;
+            max-width: 100%;
+            display: block;
+        }
+
+        .scout-img-40 {
+            vertical-align: middle;
+            width: 100%;
+            max-width: 150px;
+            border-radius: 40%;
+            object-fit: cover;
+        }
+
+        .img-400 {
+            vertical-align: middle;
+            width: 100%;
+            max-width: 400px;
+            border-radius: 10%;
+            object-fit: cover;
+        }
+
+        .img-600 {
+            vertical-align: middle;
+            width: 100%;
+            max-width: 600px;
+            border-radius: 5%;
+            object-fit: cover;
+        }
+
+        .centered {
+            margin: 0 auto;
+        }
+
+        /* Section heading (badge + title) */
+        .section-title {
+            display: block;
+            margin: 0;
+            padding: 0;
+            color: #206a81;
+            font-size: 26px;
+            font-weight: 700;
+            line-height: 1.25;
+        }
+
+        .badge {
+            display: inline-block;
+            vertical-align: middle;
+            width: 63px;
+            max-width: 63px;
+            margin-right: 8px;
+        }
+
+        /* Calendar table */
+        .my-custom-table {
+            border-collapse: collapse;
+            border: 1px solid #E7E7E7;
+            padding: 0;
+            border-spacing: 0;
+            width: 100%;
+            max-width: 750px;
+            font-family: Helvetica, Arial, sans-serif;
+        }
+
+        /* Default cells */
+        .my-custom-table td {
+            border: 1px solid #E7E7E7;
+            padding: 1px 1px;
+            vertical-align: top;
+        }
+
+        /* Event cells */
+        .my-custom-table .event-cell {
+            text-align: left;
+            padding-left: 12px;
+        }
+
+        /* Month cells */
+        .my-custom-table .month-cell {
+            font-weight: 900;
+            text-align: left;
+            padding-left: 4px;
+            background-color: #f9f9f9;
+        }
+
+        /* Mobile tweaks */
+        @media only screen and (max-width: 600px) {
+            body {
+                font-size: 15px;
+                line-height: 1.6;
+            }
+
+            h1,
+            .section-title {
+                font-size: 22px;
+            }
+
+            h2 {
+                font-size: 18px;
+            }
+
+            .container {
+                padding: 10px;
+            }
+
+            .badge {
+                width: 56px;
+                max-width: 56px;
+            }
+        }
