@@ -1,0 +1,8 @@
+{
+  "BunnyCDN": {
+    "StorageApiKey": "fdffc41c-ca5b-43d9-bd2ad9dd5c88-b5b4-471b",
+    "StorageZoneName": "troop79",
+    "StorageEndpoint": "ny.storage.bunnycdn.com",
+    "CdnBaseUrl": "https://Troop79.b-cdn.net"
+  }
+}

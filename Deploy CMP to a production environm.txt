@@ -1,0 +1,64 @@
+Deploy CMP to a production environment. 
+Talk to Eric to get alignment
+  Eric will focus on city and county of Milwaukee
+Can't get our arms around it.
+Anthropic is working very fast
+Getting onboarding process deployed
+Get into Azure and setup so stuff
+Automate updating Jiri from work activity
+Everything is an exception. More than awareness
+
+Need a tool that can listen to a converstaino and record the screen without injecting into teams
+Listen frist would be first. 
+
+There is a new assessment system in Saturn.  
+
+Coinbase has a sandbox
+Read up on Coinbase.
+
+How many tickets do you have open at one time?
+Chad and Aaron have the same amount of tickets
+Others have the same number of tickets
+Gerry finishes stuff and doesn't tell anyone - need routine communication
+Showing work on a process
+
+Sale request
+Proposal sent
+Sold
+Make a projects
+3 buckets - fred, Gerry, Ad
+Kickoff
+(Std process) doc and
+Gerry and Fred both do work to do assessment
+Gerry finds flaws
+AD Test
+AD finds bugs
+Say to client - test
+Go live - Gerry and Fred both need to do stuff
+Fred and Gerry and both interdependent
+Two teams 
+Jiri ticket status updates takes time and is annoying. 
+Gerry doesn't understand how he is clogging up the machine. 
+Fire in lab. 
+
+Ian post culture
+Dashboard for Gerry - What he's got in his queue and how much revenue he's recognized. Show a chart.
+
+Inputs
+  - Google Pipeline
+  - Jiri Ticket Number
+  - Hasty Get billing rate
+  - API call to the Rapidest on SQL OPs 1 database. SPA database
+
+Ticket to client sales
+
+Name - ticket
+Name - client project 
+Name - client
+Name - sale project 
+Name - sales
+Name - northwoods project
+Name - northwoods
+
+Get hands on iMoneza code. Requires both client and vistor to have a Wallit. 
+
